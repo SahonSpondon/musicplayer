@@ -1,9 +1,9 @@
 let songs = [
   {
-    name: "One Love",
-    artist: "Shubh",
-    img: "img1",
-    audio: "music1"
+    name: "Starboy",
+    artist: "The Weekend",
+    img: "img4",
+    audio: "music4"
   },
   {
     name: "Alag Aasman",
@@ -18,10 +18,10 @@ let songs = [
     audio: "music3"
   },
   {
-    name: "Starboy",
-    artist: "The Weekend",
-    img: "img4",
-    audio: "music4"
+    name: "One Love",
+    artist: "Shubh",
+    img: "img1",
+    audio: "music1"
   },
   {
     name: "Ei Obelay",
