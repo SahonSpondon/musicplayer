@@ -11,12 +11,12 @@ body{
   justify-content: center;
   width: 100%;
   min-height: 100vh;
-  background-color:  #AFCBD5;
+  background-color:  #5b8798;
 }
 
 .content{
-  box-shadow: 6px 6px 10px 6px rgb(192, 144, 250),
-  -6px -6px 10px 3px rgb(192, 150, 243);
+  box-shadow: 6px 6px 10px 6px rgb(45 21 75),
+  -6px -6px 10px 3px rgb(109 86 138);
   width: 350px;
   border-radius: 15px;
   padding: 25px 30px;
